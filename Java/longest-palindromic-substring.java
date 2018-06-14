@@ -1,5 +1,3 @@
-package pers.kindem.leetcode.java.solution.LongestPalindromicSubstring5;
-
 public class Solution {
     public String longestPalindrome(String s) {
         int length = 0;

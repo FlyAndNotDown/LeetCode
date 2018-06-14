@@ -1,8 +1,3 @@
-package pers.kindem.leetcode.java.solution.PalindromeLinkedList234;
-
-import java.util.ArrayList;
-import java.util.List;
-
 public class Solution {
     public boolean isPalindrome(ListNode head) {
         List<Integer> list = new ArrayList<>();

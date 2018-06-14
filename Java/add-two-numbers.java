@@ -1,5 +1,3 @@
-package pers.kindem.leetcode.java.solution.AddTwoNumbers2;
-
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         // 新建一个链表用来存储结果

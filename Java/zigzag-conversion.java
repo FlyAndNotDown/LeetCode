@@ -1,5 +1,3 @@
-package pers.kindem.leetcode.java.solution.ZigzagConversion6;
-
 public class Solution {
     public String convert(String s, int numRows) {
         // 如果只有一行则不需要转换

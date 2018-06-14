@@ -1,8 +1,3 @@
-package pers.kindem.leetcode.java.solution.LongestSubstringWithoutRepeatingCharacters3;
-
-import java.util.HashMap;
-import java.util.Map;
-
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
         // 判断字符串是否为空

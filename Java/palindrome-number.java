@@ -1,5 +1,3 @@
-package pers.kindem.leetcode.java.solution.PalindromeNumber9;
-
 public class Solution {
     public boolean isPalindrome(int x) {
         // 如果x是负整数

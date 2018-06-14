@@ -1,5 +1,3 @@
-package pers.kindem.leetcode.java.solution.ReverseInteger7;
-
 public class Solution {
     public int reverse(int x) {
         long a = (long) x;

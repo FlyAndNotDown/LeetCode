@@ -1,8 +1,3 @@
-package pers.kindem.leetcode.java.solution.MedianOfTwoSortedArrays4;
-
-import java.util.ArrayList;
-import java.util.List;
-
 public class Solution {
     public double findMedianSortedArrays(int[] m, int[] n) {
         // List容器

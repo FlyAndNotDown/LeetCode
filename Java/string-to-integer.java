@@ -1,5 +1,3 @@
-package pers.kindem.leetcode.java.solution.StringToInteger8;
-
 public class Solution {
     public int myAtoi(String str) {
         double number = 0;

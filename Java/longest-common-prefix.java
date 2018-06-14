@@ -1,5 +1,3 @@
-package pers.kindem.leetcode.java.solution.LongestCommonPrefix14;
-
 public class Solution {
     public String longestCommonPrefix(String[] strs) {
         if (strs.length == 0) return "";

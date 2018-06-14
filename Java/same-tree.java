@@ -1,5 +1,3 @@
-package pers.kindem.leetcode.java.solution.SameTree100;
-
 public class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         return p == null && q == null || p != null && q != null && p.val == q.val &&
