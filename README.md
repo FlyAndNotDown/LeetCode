@@ -33,8 +33,11 @@
 | 69 | Sqrt X | [JavaScript](./JavaScript/69-sqrt-x.js) |
 | 70 | Climbing Stairs | [JavaScript](./JavaScript/70-climbing-stairs.js) |
 | 88 | Merge Sorted Array | [JavaScript](./JavaScript/88-merge-sorted-array.js) |
+| 94 | Binary Tree Inorder Traversal | [JavaScript](./JavaScript/94-binary-tree-inorder-traversal.js) |
 | 100 | Same Tree | [Java](./Java/100-same-tree.java) |
-| 102 | Binary Tree Level Order Traversal | [Python](./Python/102-binary-tree-level-order-traversal.py) |
+| 101 | Symmetric Tree | [JavaScript](./JavaScript/101-symmetric-tree.js) |
+| 102 | Binary Tree Level Order Traversal | [JavaScript](./JavaScript/102-binary-tree-level-order-traversal.js) [Python](./Python/102-binary-tree-level-order-traversal.py) |
+| 104 | Maximum Depth Of Binary Tree | [JavaScript](./JavaScript/104-maximum-depth-of-binary-tree.js) |
 | 107 | Binary Tree Level Order Traversal Ii | [Python](./Python/107-binary-tree-level-order-traversal-ii.py) |
 | 118 | Pascal's Triangle | [JavaScript](./JavaScript/118-pascal's-triangle.js) |
 | 121 | Best Time To Buy And Sell Stock | [JavaScript](./JavaScript/121-best-time-to-buy-and-sell-stock.js) |
