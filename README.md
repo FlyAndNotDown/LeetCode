@@ -27,6 +27,7 @@
 | 38 | Count And Say | [JavaScript](./JavaScript/38-count-and-say.js) |
 | 53 | Maximum Subarray | [JavaScript](./JavaScript/53-maximum-subarray.js) |
 | 55 | Jump Game | [JavaScript](./JavaScript/55-jump-game.js) |
+| 56 | Merge Intervals | [C++](./C++/56-merge-intervals.cpp) |
 | 58 | Length Of Last Word | [Python](./Python/58-length-of-last-word.py) |
 | 66 | Plus One | [JavaScript](./JavaScript/66-plus-one.js) |
 | 67 | Add Binary | [JavaScript](./JavaScript/67-add-binary.js) |
