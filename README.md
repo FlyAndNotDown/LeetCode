@@ -9,10 +9,10 @@
 ## 详情
 | 编号 | 题目名 | 完成语言 |
 | :- | :- | :- |
-| 1 | Two Sum | [Java](./Java/1-two-sum.java) [Python](./Python/1-two-sum.py) |
+| 1 | Two Sum | [Java](./Java/1-two-sum.java) [Python](./Python/1-two-sum.py) [C++](./C++/1-two-sum.cpp) |
 | 2 | Add Two Numbers | [Java](./Java/2-add-two-numbers.java) [Python](./Python/2-add-two-numbers.py) |
 | 3 | Longest Substring Without Repeating Characters | [Java](./Java/3-longest-substring-without-repeating-characters.java) [Python](./Python/3-longest-substring-without-repeating-characters.py) |
-| 4 | Median Of Two Sorted Arrays | [Java](./Java/4-median-of-two-sorted-arrays.java) [Python](./Python/4-median-of-two-sorted-arrays.py) |
+| 4 | Median Of Two Sorted Arrays | [Java](./Java/4-median-of-two-sorted-arrays.java) [Python](./Python/4-median-of-two-sorted-arrays.py) [C++](./C++/4-median-of-two-sorted-arrays.cpp) |
 | 5 | Longest Palindromic Substring | [Java](./Java/5-longest-palindromic-substring.java) [Python](./Python/5-longest-palindromic-substring.py) |
 | 6 | Zigzag Conversion | [Java](./Java/6-zigzag-conversion.java) |
 | 7 | Reverse Integer | [Java](./Java/7-reverse-integer.java) [Python](./Python/7-reverse-integer.py) |
@@ -33,6 +33,8 @@
 | 67 | Add Binary | [JavaScript](./JavaScript/67-add-binary.js) |
 | 69 | Sqrt X | [JavaScript](./JavaScript/69-sqrt-x.js) |
 | 70 | Climbing Stairs | [JavaScript](./JavaScript/70-climbing-stairs.js) |
+| 73 | Set Matrix Zeros | [C++](./C++/73-set-matrix-zeros.cpp) |
+| 75 | Sort Colors | [C++](./C++/75-sort-colors.cpp) |
 | 88 | Merge Sorted Array | [JavaScript](./JavaScript/88-merge-sorted-array.js) |
 | 94 | Binary Tree Inorder Traversal | [JavaScript](./JavaScript/94-binary-tree-inorder-traversal.js) |
 | 100 | Same Tree | [Java](./Java/100-same-tree.java) |
