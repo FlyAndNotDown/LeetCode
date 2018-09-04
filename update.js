@@ -78,7 +78,7 @@ fs.readFile(config.outputFile, (err, data) => {
     list.forEach((item) => {
         data += `| ${item.id} | ${item.name} | `;
         item.languages.forEach((language) => {
-            data += `[${language.name}](${language.path}) `;
+            data += `[${language.name}](${language.path})&nbsp;&nbsp;`;
         });
         data += '|\n';
     });
