@@ -5,6 +5,7 @@
 * [Java](./Java)
 * [JavaScript](./JavaScript)
 * [Python](./Python)
+* [C++](./C++)
 
 ## 详情
 | 统计信息键 | 值 |
