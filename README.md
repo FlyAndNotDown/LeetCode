@@ -7,6 +7,10 @@
 * [Python](./Python)
 
 ## 详情
+| 统计信息键 | 值 |
+| :- | :- |
+| AC的题目总数 | 49 |
+
 | 编号 | 题目名 | 完成语言 |
 | :- | :- | :- |
 | 1 | Two Sum | [Java](./Java/1-two-sum.java) [Python](./Python/1-two-sum.py) [C++](./C++/1-two-sum.cpp) |

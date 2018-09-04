@@ -64,9 +64,15 @@ fs.readFile(config.outputFile, (err, data) => {
         });
     });
 
+    // 统计信息
+    data += '| 统计信息键 | 值 |\n';
+    data += '| :- | :- |\n';
+    data += `| AC的题目总数 | ${list.length} |\n\n`;
+
     // 画表头
     data += '| 编号 | 题目名 | 完成语言 |\n';
     data += '| :- | :- | :- |\n';
+
     // 根据 list 画表
     list.sort((a, b) => parseInt(a.id) > parseInt(b.id) ? 1 : -1);
     list.forEach((item) => {
