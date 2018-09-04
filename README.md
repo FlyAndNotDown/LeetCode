@@ -29,6 +29,7 @@
 | 26 | Remove Duplicates From Sorted Array | [C++](./C++/26-remove-duplicates-from-sorted-array.cpp) |
 | 35 | Search Insert Position | [JavaScript](./JavaScript/35-search-insert-position.js) [Python](./Python/35-search-insert-position.py) |
 | 38 | Count And Say | [JavaScript](./JavaScript/38-count-and-say.js) |
+| 43 | Multiply Strings | [Python](./Python/43-multiply-strings.py) |
 | 53 | Maximum Subarray | [JavaScript](./JavaScript/53-maximum-subarray.js) |
 | 55 | Jump Game | [JavaScript](./JavaScript/55-jump-game.js) |
 | 56 | Merge Intervals | [C++](./C++/56-merge-intervals.cpp) |
