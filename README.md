@@ -13,16 +13,20 @@
 | 2 | Add Two Numbers | [Java](./Java/2-add-two-numbers.java) [Python](./Python/2-add-two-numbers.py) |
 | 3 | Longest Substring Without Repeating Characters | [Java](./Java/3-longest-substring-without-repeating-characters.java) [Python](./Python/3-longest-substring-without-repeating-characters.py) |
 | 4 | Median Of Two Sorted Arrays | [Java](./Java/4-median-of-two-sorted-arrays.java) [Python](./Python/4-median-of-two-sorted-arrays.py) [C++](./C++/4-median-of-two-sorted-arrays.cpp) |
-| 5 | Longest Palindromic Substring | [Java](./Java/5-longest-palindromic-substring.java) [Python](./Python/5-longest-palindromic-substring.py) |
+| 5 | Longest Palindromic Substring | [Java](./Java/5-longest-palindromic-substring.java) [Python](./Python/5-longest-palindromic-substring.py) [C++](./C++/5-longest-palindromic-substring.cpp) |
 | 6 | Zigzag Conversion | [Java](./Java/6-zigzag-conversion.java) |
 | 7 | Reverse Integer | [Java](./Java/7-reverse-integer.java) [Python](./Python/7-reverse-integer.py) |
-| 8 | String To Integer | [Java](./Java/8-string-to-integer.java) [Python](./Python/8-string-to-integer.py) |
+| 8 | String To Integer | [Java](./Java/8-string-to-integer.java) [Python](./Python/8-string-to-integer.py) [C++](./C++/8-string-to-integer.cpp) |
 | 9 | Palindrome Number | [Java](./Java/9-palindrome-number.java) [Python](./Python/9-palindrome-number.py) |
-| 14 | Longest Common Prefix | [Java](./Java/14-longest-common-prefix.java) |
+| 11 | Container With Most Water | [C++](./C++/11-container-with-most-water.cpp) |
+| 14 | Longest Common Prefix | [Java](./Java/14-longest-common-prefix.java) [C++](./C++/14-longest-common-prefix.cpp) |
+| 15 | Three Sum | [C++](./C++/15-three-sum.cpp) |
+| 16 | Three Sum Cloest | [C++](./C++/16-three-sum-cloest.cpp) |
 | 17 | Letter Combinations Of A Phone Number | [JavaScript](./JavaScript/17-letter-combinations-of-a-phone-number.js) |
 | 19 | Remove Nth Node From End Of List | [JavaScript](./JavaScript/19-remove-nth-node-from-end-of-list.js) |
-| 20 | Valid Parentheses | [Python](./Python/20-valid-parentheses.py) |
+| 20 | Valid Parentheses | [Python](./Python/20-valid-parentheses.py) [C++](./C++/20-valid-parentheses.cpp) |
 | 21 | Merge Two Sorted Lists | [Java](./Java/21-merge-two-sorted-lists.java) |
+| 26 | Remove Duplicates From Sorted Array | [C++](./C++/26-remove-duplicates-from-sorted-array.cpp) |
 | 35 | Search Insert Position | [JavaScript](./JavaScript/35-search-insert-position.js) [Python](./Python/35-search-insert-position.py) |
 | 38 | Count And Say | [JavaScript](./JavaScript/38-count-and-say.js) |
 | 53 | Maximum Subarray | [JavaScript](./JavaScript/53-maximum-subarray.js) |
