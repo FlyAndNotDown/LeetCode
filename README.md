@@ -1,5 +1,9 @@
 # LeetCode
-我的个人LeetCode仓库，里面有C++、Java、JavaScript、Python等语言的LeetCode题解
+我的个人LeetCode仓库，里面有C++、Java、JavaScript、Python等语言的LeetCode题解，个人LeetCode首页在这里：
+
+[LeetCode - FlyAndNotDown](https://leetcode-cn.com/flyandnotdown/)
+
+欢迎大家参考、交流，也欢迎大家`star`、`f*ck`本仓库
 
 ## 目录
 * [Java](./Java)
