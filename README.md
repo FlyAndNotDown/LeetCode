@@ -14,7 +14,7 @@
 ## 详情
 | 统计信息键 | 值 |
 | :- | :- |
-| AC的题目总数 | 49 |
+| AC的题目总数 | 64 |
 
 | 编号 | 题目名 | 完成语言 |
 | :- | :- | :- |
@@ -34,22 +34,26 @@
 | 17 | Letter Combinations Of A Phone Number | [JavaScript](./JavaScript/17-letter-combinations-of-a-phone-number.js)&nbsp;&nbsp;|
 | 19 | Remove Nth Node From End Of List | [JavaScript](./JavaScript/19-remove-nth-node-from-end-of-list.js)&nbsp;&nbsp;|
 | 20 | Valid Parentheses | [Python](./Python/20-valid-parentheses.py)&nbsp;&nbsp;[C++](./C++/20-valid-parentheses.cpp)&nbsp;&nbsp;|
-| 21 | Merge Two Sorted Lists | [Java](./Java/21-merge-two-sorted-lists.java)&nbsp;&nbsp;|
+| 21 | Merge Two Sorted Lists | [Java](./Java/21-merge-two-sorted-lists.java)&nbsp;&nbsp;[Python](./Python/21-merge-two-sorted-lists.py)&nbsp;&nbsp;|
+| 23 | Merge K Sorted Lists | [Python](./Python/23-merge-k-sorted-lists.py)&nbsp;&nbsp;|
 | 26 | Remove Duplicates From Sorted Array | [C++](./C++/26-remove-duplicates-from-sorted-array.cpp)&nbsp;&nbsp;|
 | 35 | Search Insert Position | [JavaScript](./JavaScript/35-search-insert-position.js)&nbsp;&nbsp;[Python](./Python/35-search-insert-position.py)&nbsp;&nbsp;|
 | 38 | Count And Say | [JavaScript](./JavaScript/38-count-and-say.js)&nbsp;&nbsp;|
 | 43 | Multiply Strings | [Python](./Python/43-multiply-strings.py)&nbsp;&nbsp;|
 | 53 | Maximum Subarray | [JavaScript](./JavaScript/53-maximum-subarray.js)&nbsp;&nbsp;|
+| 54 | Spiral Matrix | [Python](./Python/54-spiral-matrix.py)&nbsp;&nbsp;|
 | 55 | Jump Game | [JavaScript](./JavaScript/55-jump-game.js)&nbsp;&nbsp;|
 | 56 | Merge Intervals | [C++](./C++/56-merge-intervals.cpp)&nbsp;&nbsp;|
 | 58 | Length Of Last Word | [Python](./Python/58-length-of-last-word.py)&nbsp;&nbsp;|
+| 59 | Spiral Matrix Ii | [Python](./Python/59-spiral-matrix-ii.py)&nbsp;&nbsp;|
+| 61 | Rotate List | [Python](./Python/61-rotate-list.py)&nbsp;&nbsp;|
 | 66 | Plus One | [JavaScript](./JavaScript/66-plus-one.js)&nbsp;&nbsp;|
 | 67 | Add Binary | [JavaScript](./JavaScript/67-add-binary.js)&nbsp;&nbsp;|
 | 69 | Sqrt X | [JavaScript](./JavaScript/69-sqrt-x.js)&nbsp;&nbsp;|
 | 70 | Climbing Stairs | [JavaScript](./JavaScript/70-climbing-stairs.js)&nbsp;&nbsp;|
 | 73 | Set Matrix Zeros | [C++](./C++/73-set-matrix-zeros.cpp)&nbsp;&nbsp;|
 | 75 | Sort Colors | [C++](./C++/75-sort-colors.cpp)&nbsp;&nbsp;|
-| 88 | Merge Sorted Array | [JavaScript](./JavaScript/88-merge-sorted-array.js)&nbsp;&nbsp;|
+| 88 | Merge Sorted Array | [JavaScript](./JavaScript/88-merge-sorted-array.js)&nbsp;&nbsp;[Python](./Python/88-merge-sorted-array.py)&nbsp;&nbsp;|
 | 94 | Binary Tree Inorder Traversal | [JavaScript](./JavaScript/94-binary-tree-inorder-traversal.js)&nbsp;&nbsp;|
 | 100 | Same Tree | [Java](./Java/100-same-tree.java)&nbsp;&nbsp;|
 | 101 | Symmetric Tree | [JavaScript](./JavaScript/101-symmetric-tree.js)&nbsp;&nbsp;|
@@ -58,12 +62,23 @@
 | 107 | Binary Tree Level Order Traversal Ii | [Python](./Python/107-binary-tree-level-order-traversal-ii.py)&nbsp;&nbsp;|
 | 118 | Pascal's Triangle | [JavaScript](./JavaScript/118-pascal's-triangle.js)&nbsp;&nbsp;|
 | 121 | Best Time To Buy And Sell Stock | [JavaScript](./JavaScript/121-best-time-to-buy-and-sell-stock.js)&nbsp;&nbsp;|
+| 136 | Single Number | [Python](./Python/136-single-number.py)&nbsp;&nbsp;|
+| 141 | Linked List Cycle | [JavaScript](./JavaScript/141-linked-list-cycle.js)&nbsp;&nbsp;|
+| 142 | Linked List Cycle Ii | [JavaScript](./JavaScript/142-linked-list-cycle-ii.js)&nbsp;&nbsp;|
+| 160 | Intersection Of Two Linked Lists | [JavaScript](./JavaScript/160-intersection-of-two-linked-lists.js)&nbsp;&nbsp;|
+| 169 | Majority Element | [Python](./Python/169-majority-element.py)&nbsp;&nbsp;|
+| 206 | Reverse Linked List | [Python](./Python/206-reverse-linked-list.py)&nbsp;&nbsp;|
+| 217 | Contains Duplicate | [Python](./Python/217-contains-duplicate.py)&nbsp;&nbsp;|
 | 225 | Implement Stack Using Queues | [Python](./Python/225-implement-stack-using-queues.py)&nbsp;&nbsp;|
+| 231 | Power Of Two | [Python](./Python/231-power-of-two.py)&nbsp;&nbsp;|
 | 234 | Palindrome Linked List | [Java](./Java/234-palindrome-linked-list.java)&nbsp;&nbsp;|
+| 237 | Delete Node In A Linked List | [Python](./Python/237-delete-node-in-a-linked-list.py)&nbsp;&nbsp;|
+| 238 | Product Of Array Except Self | [Python](./Python/238-product-of-array-except-self.py)&nbsp;&nbsp;|
 | 342 | Power Of Four | [Python](./Python/342-power-of-four.py)&nbsp;&nbsp;|
 | 344 | Reverse String | [Python](./Python/344-reverse-string.py)&nbsp;&nbsp;|
 | 463 | Island Perimeter | [Python](./Python/463-island-perimeter.py)&nbsp;&nbsp;|
 | 482 | License Key Formatting | [Python](./Python/482-license-key-formatting.py)&nbsp;&nbsp;|
 | 500 | Keyboard Row | [Python](./Python/500-keyboard-row.py)&nbsp;&nbsp;|
 | 539 | Minimum Time Difference | [Python](./Python/539-minimum-time-difference.py)&nbsp;&nbsp;|
+| 557 | Reverse Words In String Iii | [Python](./Python/557-reverse-words-in-string-iii.py)&nbsp;&nbsp;|
 | 764 | Largest Plus Sign | [Python](./Python/764-largest-plus-sign.py)&nbsp;&nbsp;|
