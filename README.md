@@ -14,7 +14,7 @@
 ## 详情
 | 统计信息键 | 值 |
 | :- | :- |
-| AC的题目总数 | 72 |
+| AC的题目总数 | 73 |
 
 | 编号 | 题目名 | 完成语言 |
 | :- | :- | :- |
@@ -55,6 +55,7 @@
 | 70 | Climbing Stairs | [JavaScript](./JavaScript/70-climbing-stairs.js)&nbsp;&nbsp;|
 | 73 | Set Matrix Zeros | [C++](./C++/73-set-matrix-zeros.cpp)&nbsp;&nbsp;|
 | 75 | Sort Colors | [C++](./C++/75-sort-colors.cpp)&nbsp;&nbsp;|
+| 78 | Subsets | [Python](./Python/78-subsets.py)&nbsp;&nbsp;|
 | 88 | Merge Sorted Array | [JavaScript](./JavaScript/88-merge-sorted-array.js)&nbsp;&nbsp;[Python](./Python/88-merge-sorted-array.py)&nbsp;&nbsp;|
 | 94 | Binary Tree Inorder Traversal | [JavaScript](./JavaScript/94-binary-tree-inorder-traversal.js)&nbsp;&nbsp;|
 | 100 | Same Tree | [Java](./Java/100-same-tree.java)&nbsp;&nbsp;|
