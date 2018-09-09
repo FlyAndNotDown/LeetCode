@@ -14,7 +14,7 @@
 ## 详情
 | 统计信息键 | 值 |
 | :- | :- |
-| AC的题目总数 | 73 |
+| AC的题目总数 | 75 |
 
 | 编号 | 题目名 | 完成语言 |
 | :- | :- | :- |
@@ -42,6 +42,7 @@
 | 35 | Search Insert Position | [JavaScript](./JavaScript/35-search-insert-position.js)&nbsp;&nbsp;[Python](./Python/35-search-insert-position.py)&nbsp;&nbsp;|
 | 38 | Count And Say | [JavaScript](./JavaScript/38-count-and-say.js)&nbsp;&nbsp;|
 | 43 | Multiply Strings | [Python](./Python/43-multiply-strings.py)&nbsp;&nbsp;|
+| 46 | Permutations | [Python](./Python/46-permutations.py)&nbsp;&nbsp;|
 | 53 | Maximum Subarray | [JavaScript](./JavaScript/53-maximum-subarray.js)&nbsp;&nbsp;|
 | 54 | Spiral Matrix | [Python](./Python/54-spiral-matrix.py)&nbsp;&nbsp;|
 | 55 | Jump Game | [JavaScript](./JavaScript/55-jump-game.js)&nbsp;&nbsp;|
@@ -57,6 +58,7 @@
 | 75 | Sort Colors | [C++](./C++/75-sort-colors.cpp)&nbsp;&nbsp;|
 | 78 | Subsets | [Python](./Python/78-subsets.py)&nbsp;&nbsp;|
 | 88 | Merge Sorted Array | [JavaScript](./JavaScript/88-merge-sorted-array.js)&nbsp;&nbsp;[Python](./Python/88-merge-sorted-array.py)&nbsp;&nbsp;|
+| 89 | Gray Code | [Python](./Python/89-gray-code.py)&nbsp;&nbsp;|
 | 94 | Binary Tree Inorder Traversal | [JavaScript](./JavaScript/94-binary-tree-inorder-traversal.js)&nbsp;&nbsp;|
 | 100 | Same Tree | [Java](./Java/100-same-tree.java)&nbsp;&nbsp;|
 | 101 | Symmetric Tree | [JavaScript](./JavaScript/101-symmetric-tree.js)&nbsp;&nbsp;|
