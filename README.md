@@ -43,7 +43,7 @@
 | 38 | Count And Say | [JavaScript](./JavaScript/38-count-and-say.js)&nbsp;&nbsp;|
 | 43 | Multiply Strings | [Python](./Python/43-multiply-strings.py)&nbsp;&nbsp;|
 | 46 | Permutations | [Python](./Python/46-permutations.py)&nbsp;&nbsp;|
-| 53 | Maximum Subarray | [JavaScript](./JavaScript/53-maximum-subarray.js)&nbsp;&nbsp;|
+| 53 | Maximum Subarray | [JavaScript](./JavaScript/53-maximum-subarray.js)&nbsp;&nbsp;[Python](./Python/53-maximum-subarray.py)&nbsp;&nbsp;|
 | 54 | Spiral Matrix | [Python](./Python/54-spiral-matrix.py)&nbsp;&nbsp;|
 | 55 | Jump Game | [JavaScript](./JavaScript/55-jump-game.js)&nbsp;&nbsp;|
 | 56 | Merge Intervals | [C++](./C++/56-merge-intervals.cpp)&nbsp;&nbsp;|
@@ -53,7 +53,7 @@
 | 66 | Plus One | [JavaScript](./JavaScript/66-plus-one.js)&nbsp;&nbsp;|
 | 67 | Add Binary | [JavaScript](./JavaScript/67-add-binary.js)&nbsp;&nbsp;|
 | 69 | Sqrt X | [JavaScript](./JavaScript/69-sqrt-x.js)&nbsp;&nbsp;|
-| 70 | Climbing Stairs | [JavaScript](./JavaScript/70-climbing-stairs.js)&nbsp;&nbsp;|
+| 70 | Climbing Stairs | [JavaScript](./JavaScript/70-climbing-stairs.js)&nbsp;&nbsp;[Python](./Python/70-climbing-stairs.py)&nbsp;&nbsp;|
 | 73 | Set Matrix Zeros | [C++](./C++/73-set-matrix-zeros.cpp)&nbsp;&nbsp;|
 | 75 | Sort Colors | [C++](./C++/75-sort-colors.cpp)&nbsp;&nbsp;|
 | 78 | Subsets | [Python](./Python/78-subsets.py)&nbsp;&nbsp;|
