@@ -14,7 +14,7 @@
 ## 详情
 | 统计信息键 | 值 |
 | :- | :- |
-| AC的题目总数 | 75 |
+| AC的题目总数 | 77 |
 
 | 编号 | 题目名 | 完成语言 |
 | :- | :- | :- |
@@ -50,6 +50,7 @@
 | 58 | Length Of Last Word | [Python](./Python/58-length-of-last-word.py)&nbsp;&nbsp;|
 | 59 | Spiral Matrix Ii | [Python](./Python/59-spiral-matrix-ii.py)&nbsp;&nbsp;|
 | 61 | Rotate List | [Python](./Python/61-rotate-list.py)&nbsp;&nbsp;|
+| 62 | Unique Paths | [Python](./Python/62-unique-paths.py)&nbsp;&nbsp;|
 | 66 | Plus One | [JavaScript](./JavaScript/66-plus-one.js)&nbsp;&nbsp;|
 | 67 | Add Binary | [JavaScript](./JavaScript/67-add-binary.js)&nbsp;&nbsp;|
 | 69 | Sqrt X | [JavaScript](./JavaScript/69-sqrt-x.js)&nbsp;&nbsp;|
@@ -66,7 +67,8 @@
 | 104 | Maximum Depth Of Binary Tree | [JavaScript](./JavaScript/104-maximum-depth-of-binary-tree.js)&nbsp;&nbsp;[Python](./Python/104-maximum-depth-of-binary-tree.py)&nbsp;&nbsp;|
 | 107 | Binary Tree Level Order Traversal Ii | [Python](./Python/107-binary-tree-level-order-traversal-ii.py)&nbsp;&nbsp;|
 | 118 | Pascal's Triangle | [JavaScript](./JavaScript/118-pascal's-triangle.js)&nbsp;&nbsp;|
-| 121 | Best Time To Buy And Sell Stock | [JavaScript](./JavaScript/121-best-time-to-buy-and-sell-stock.js)&nbsp;&nbsp;|
+| 121 | Best Time To Buy And Sell Stock | [JavaScript](./JavaScript/121-best-time-to-buy-and-sell-stock.js)&nbsp;&nbsp;[Python](./Python/121-best-time-to-buy-and-sell-stock.py)&nbsp;&nbsp;|
+| 122 | Best Time To Buy And Sell Stock Ii | [Python](./Python/122-best-time-to-buy-and-sell-stock-ii.py)&nbsp;&nbsp;|
 | 124 | Binary Tree Maximum Path Sum | [Python](./Python/124-binary-tree-maximum-path-sum.py)&nbsp;&nbsp;|
 | 136 | Single Number | [Python](./Python/136-single-number.py)&nbsp;&nbsp;|
 | 141 | Linked List Cycle | [JavaScript](./JavaScript/141-linked-list-cycle.js)&nbsp;&nbsp;|
