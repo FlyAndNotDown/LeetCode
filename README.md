@@ -14,7 +14,7 @@
 ## 详情
 | 统计信息键 | 值 |
 | :- | :- |
-| AC的题目总数 | 77 |
+| AC的题目总数 | 81 |
 
 | 编号 | 题目名 | 完成语言 |
 | :- | :- | :- |
@@ -38,6 +38,7 @@
 | 22 | Genetate Parentheses | [Python](./Python/22-genetate-parentheses.py)&nbsp;&nbsp;|
 | 23 | Merge K Sorted Lists | [Python](./Python/23-merge-k-sorted-lists.py)&nbsp;&nbsp;|
 | 26 | Remove Duplicates From Sorted Array | [C++](./C++/26-remove-duplicates-from-sorted-array.cpp)&nbsp;&nbsp;|
+| 27 | Remove Element | [JavaScript](./JavaScript/27-remove-element.js)&nbsp;&nbsp;|
 | 33 | Search In Rotated Sorted Array | [Python](./Python/33-search-in-rotated-sorted-array.py)&nbsp;&nbsp;|
 | 35 | Search Insert Position | [JavaScript](./JavaScript/35-search-insert-position.js)&nbsp;&nbsp;[Python](./Python/35-search-insert-position.py)&nbsp;&nbsp;|
 | 38 | Count And Say | [JavaScript](./JavaScript/38-count-and-say.js)&nbsp;&nbsp;|
@@ -73,7 +74,9 @@
 | 136 | Single Number | [Python](./Python/136-single-number.py)&nbsp;&nbsp;|
 | 141 | Linked List Cycle | [JavaScript](./JavaScript/141-linked-list-cycle.js)&nbsp;&nbsp;|
 | 142 | Linked List Cycle Ii | [JavaScript](./JavaScript/142-linked-list-cycle-ii.js)&nbsp;&nbsp;|
+| 146 | Lru Cache | [C++](./C++/146-lru-cache.cpp)&nbsp;&nbsp;|
 | 148 | Sort List | [Python](./Python/148-sort-list.py)&nbsp;&nbsp;|
+| 155 | Min Stack | [Python](./Python/155-min-stack.py)&nbsp;&nbsp;|
 | 160 | Intersection Of Two Linked Lists | [JavaScript](./JavaScript/160-intersection-of-two-linked-lists.js)&nbsp;&nbsp;|
 | 169 | Majority Element | [Python](./Python/169-majority-element.py)&nbsp;&nbsp;|
 | 206 | Reverse Linked List | [Python](./Python/206-reverse-linked-list.py)&nbsp;&nbsp;|
@@ -87,6 +90,7 @@
 | 236 | Lowest Common Ancestor Of A Binary Tree | [Python](./Python/236-lowest-common-ancestor-of-a-binary-tree.py)&nbsp;&nbsp;|
 | 237 | Delete Node In A Linked List | [Python](./Python/237-delete-node-in-a-linked-list.py)&nbsp;&nbsp;|
 | 238 | Product Of Array Except Self | [Python](./Python/238-product-of-array-except-self.py)&nbsp;&nbsp;|
+| 292 | Min Stack | [Python](./Python/292-min-stack.py)&nbsp;&nbsp;|
 | 342 | Power Of Four | [Python](./Python/342-power-of-four.py)&nbsp;&nbsp;|
 | 344 | Reverse String | [Python](./Python/344-reverse-string.py)&nbsp;&nbsp;|
 | 463 | Island Perimeter | [Python](./Python/463-island-perimeter.py)&nbsp;&nbsp;|
