@@ -19,5 +19,3 @@ var intToRoman = function(num) {
 
     return result.join('');
 };
-
-// console.log(intToRoman(1994));
