@@ -14,7 +14,7 @@
 ## 详情
 | 统计信息键 | 值 |
 | :- | :- |
-| AC的题目总数 | 83 |
+| AC的题目总数 | 84 |
 
 | 编号 | 题目名 | 完成语言 |
 | :- | :- | :- |
@@ -41,6 +41,7 @@
 | 23 | Merge K Sorted Lists | [Python](./Python/23-merge-k-sorted-lists.py)&nbsp;&nbsp;|
 | 26 | Remove Duplicates From Sorted Array | [C++](./C++/26-remove-duplicates-from-sorted-array.cpp)&nbsp;&nbsp;|
 | 27 | Remove Element | [JavaScript](./JavaScript/27-remove-element.js)&nbsp;&nbsp;|
+| 28 | Implement StrStr() | [JavaScript](./JavaScript/28-implement-strStr().js)&nbsp;&nbsp;|
 | 33 | Search In Rotated Sorted Array | [Python](./Python/33-search-in-rotated-sorted-array.py)&nbsp;&nbsp;|
 | 35 | Search Insert Position | [JavaScript](./JavaScript/35-search-insert-position.js)&nbsp;&nbsp;[Python](./Python/35-search-insert-position.py)&nbsp;&nbsp;|
 | 38 | Count And Say | [JavaScript](./JavaScript/38-count-and-say.js)&nbsp;&nbsp;|
