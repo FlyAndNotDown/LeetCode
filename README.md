@@ -51,7 +51,7 @@
 | 54 | Spiral Matrix | [Python](./Python/54-spiral-matrix.py)&nbsp;&nbsp;|
 | 55 | Jump Game | [JavaScript](./JavaScript/55-jump-game.js)&nbsp;&nbsp;|
 | 56 | Merge Intervals | [C++](./C++/56-merge-intervals.cpp)&nbsp;&nbsp;|
-| 58 | Length Of Last Word | [Python](./Python/58-length-of-last-word.py)&nbsp;&nbsp;|
+| 58 | Length Of Last Word | [JavaScript](./JavaScript/58-length-of-last-word.js)&nbsp;&nbsp;[Python](./Python/58-length-of-last-word.py)&nbsp;&nbsp;|
 | 59 | Spiral Matrix Ii | [Python](./Python/59-spiral-matrix-ii.py)&nbsp;&nbsp;|
 | 61 | Rotate List | [Python](./Python/61-rotate-list.py)&nbsp;&nbsp;|
 | 62 | Unique Paths | [Python](./Python/62-unique-paths.py)&nbsp;&nbsp;|
