@@ -1,7 +1,7 @@
 let fs = require('fs');
 
 let config = {
-    tableStartString: '## 详情',
+    tableStartString: '# 🐱‍💻 详情',
     outputFile: './README.md',
     languages: [{
         name: 'Java',
