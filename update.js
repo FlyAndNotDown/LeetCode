@@ -49,6 +49,7 @@ function buildCatalogue() {
     config.languages.map(language => {
         let temp = {
             language: language.name,
+            folder: language.folder,
             format: language.format,
             children: []
         };
