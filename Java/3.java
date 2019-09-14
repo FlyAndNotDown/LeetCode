@@ -1,3 +1,7 @@
+/**
+ * @no 3
+ * @name Longest Substring without Repeating Characters
+ */
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
         if (s == null || s.length() == 0) {

@@ -1,3 +1,7 @@
+/**
+ * @no 7
+ * @name Reverse Integer
+ */
 public class Solution {
     public int reverse(int x) {
         long a = (long) x;

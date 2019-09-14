@@ -1,3 +1,7 @@
+/**
+ * @no 8
+ * @name String to Integer
+ */
 public class Solution {
     public int myAtoi(String str) {
         double number = 0;
