@@ -68,7 +68,7 @@ function buildCatalogue() {
     let result = '| 统计 | 值 |\r\n| - | - |\r\n';
     result += `| AC 的题目总数 | ${count} |\r\n\r\n`;
     metaInfos.forEach(obj => {
-        result += `\`${obj.language}\` :\r\n| 编号 | 题目名 | 操作 |\r\n| - | - | - |\r\n`;
+        result += `\`${obj.language}\` :\r\n\r\n| 编号 | 题目名 | 操作 |\r\n| - | - | - |\r\n`;
         obj.children.forEach(child => {
             result += `| ${child.no} | ${child.name} | [传送门](./${obj.folder}/${child.no}.${obj.format}) |\r\n`;
         });
