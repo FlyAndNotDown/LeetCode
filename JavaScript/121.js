@@ -1,6 +1,6 @@
 /**
- * @param {number[]} prices
- * @return {number}
+ * @no 121
+ * @name Best Time to Buy and Sell Stock
  */
 let maxProfit = (prices) => {
     let ans = 0;
