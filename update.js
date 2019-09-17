@@ -54,9 +54,7 @@ function buildCatalogue() {
             children: []
         };
         let files = fs.readdirSync(`./${language.folder}`);
-        files.map(file => {
-            temp.children.push(readMetaInfo(`./${language.folder}/${file}`));
-        });
+        files.map(file => { temp.children.push(readMetaInfo(`./${language.folder}/${file}`)); });
         temp.children.sort((a, b) => {
             return parseInt(a.no, 10) - parseInt(b.no, 10);
         });
