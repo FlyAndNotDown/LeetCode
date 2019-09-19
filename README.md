@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 121 |
+| AC 的题目总数 | 122 |
 
 `C++` :
 
@@ -28,6 +28,7 @@
 | 73 | Set Matrix Zeros | [传送门](./Cpp/73.hpp) |
 | 75 | Set Matrix Zeros | [传送门](./Cpp/75.hpp) |
 | 121 | Best Time to Buy and Sell Stock | [传送门](./Cpp/121.hpp) |
+| 125 | Valid Palindrome | [传送门](./Cpp/125.hpp) |
 | 135 | Candy | [传送门](./Cpp/135.hpp) |
 | 146 | IRU Cache | [传送门](./Cpp/146.hpp) |
 | 435 | Non-overlapping Intervals | [传送门](./Cpp/435.hpp) |
