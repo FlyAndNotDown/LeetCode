@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 123 |
+| AC 的题目总数 | 124 |
 
 `C++` :
 
@@ -85,6 +85,7 @@
 | 142 | Linker List Cycle II | [传送门](./JavaScript/142.js) |
 | 160 | Intersection of Two Linker Lists | [传送门](./JavaScript/160.js) |
 | 171 | Excel Sheet Column Number | [传送门](./JavaScript/171.js) |
+| 412 | Fizz Buzz | [传送门](./JavaScript/412.js) |
 | 500 | Keyboard Row | [传送门](./JavaScript/500.js) |
 | 867 | Transpose Matrix | [传送门](./JavaScript/867.js) |
 | 961 | N-Repeated Element in Size 2N Array | [传送门](./JavaScript/961.js) |
