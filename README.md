@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 124 |
+| AC 的题目总数 | 125 |
 
 `C++` :
 
@@ -88,6 +88,7 @@
 | 412 | Fizz Buzz | [传送门](./JavaScript/412.js) |
 | 500 | Keyboard Row | [传送门](./JavaScript/500.js) |
 | 867 | Transpose Matrix | [传送门](./JavaScript/867.js) |
+| 868 | Binary Gap | [传送门](./JavaScript/868.js) |
 | 961 | N-Repeated Element in Size 2N Array | [传送门](./JavaScript/961.js) |
 
 `Python` :
