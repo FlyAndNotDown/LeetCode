@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 125 |
+| AC 的题目总数 | 126 |
 
 `C++` :
 
@@ -90,6 +90,7 @@
 | 867 | Transpose Matrix | [传送门](./JavaScript/867.js) |
 | 868 | Binary Gap | [传送门](./JavaScript/868.js) |
 | 961 | N-Repeated Element in Size 2N Array | [传送门](./JavaScript/961.js) |
+| 1089 | Duplicate Zeros | [传送门](./JavaScript/1089.js) |
 
 `Python` :
 
