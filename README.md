@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 127 |
+| AC 的题目总数 | 129 |
 
 `C++` :
 
@@ -87,11 +87,13 @@
 | 171 | Excel Sheet Column Number | [传送门](./JavaScript/171.js) |
 | 191 | Number of 1 Bits | [传送门](./JavaScript/191.js) |
 | 412 | Fizz Buzz | [传送门](./JavaScript/412.js) |
+| 496 | Next Greater Element I | [传送门](./JavaScript/496.js) |
 | 500 | Keyboard Row | [传送门](./JavaScript/500.js) |
 | 867 | Transpose Matrix | [传送门](./JavaScript/867.js) |
 | 868 | Binary Gap | [传送门](./JavaScript/868.js) |
 | 961 | N-Repeated Element in Size 2N Array | [传送门](./JavaScript/961.js) |
 | 1089 | Duplicate Zeros | [传送门](./JavaScript/1089.js) |
+| 1160 | Find Words That Can Be Formed by Characters | [传送门](./JavaScript/1160.js) |
 
 `Python` :
 
