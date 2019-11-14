@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 129 |
+| AC 的题目总数 | 130 |
 
 `C++` :
 
@@ -50,6 +50,7 @@
 | 9 | Palindrome Number | [传送门](./Java/9.java) |
 | 14 | Longest Common Prefix | [传送门](./Java/14.java) |
 | 21 | Merge Two Sorted Lists | [传送门](./Java/21.java) |
+| 71 | Simplify Path | [传送门](./Java/71.java) |
 | 100 | Same Tree | [传送门](./Java/100.java) |
 | 234 | Palindrome Linked List | [传送门](./Java/234.java) |
 
