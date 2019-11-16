@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 130 |
+| AC 的题目总数 | 136 |
 
 `C++` :
 
@@ -52,7 +52,13 @@
 | 21 | Merge Two Sorted Lists | [传送门](./Java/21.java) |
 | 71 | Simplify Path | [传送门](./Java/71.java) |
 | 100 | Same Tree | [传送门](./Java/100.java) |
+| 202 | Happy Number | [传送门](./Java/202.java) |
+| 205 | Isomorphic Strings | [传送门](./Java/205.java) |
 | 234 | Palindrome Linked List | [传送门](./Java/234.java) |
+| 242 | Valid Anagram | [传送门](./Java/242.java) |
+| 303 | Range Sum Query - Immutable | [传送门](./Java/303.java) |
+| 326 | Power of Three | [传送门](./Java/326.java) |
+| 342 | Power of Four | [传送门](./Java/342.java) |
 
 `JavaScript` :
 
