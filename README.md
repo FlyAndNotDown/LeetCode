@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 136 |
+| AC 的题目总数 | 144 |
 
 `C++` :
 
@@ -50,7 +50,9 @@
 | 9 | Palindrome Number | [传送门](./Java/9.java) |
 | 14 | Longest Common Prefix | [传送门](./Java/14.java) |
 | 21 | Merge Two Sorted Lists | [传送门](./Java/21.java) |
+| 36 | Valid Sudoku | [传送门](./Java/36.java) |
 | 71 | Simplify Path | [传送门](./Java/71.java) |
+| 82 | Remove Duplicates from Sorted List II | [传送门](./Java/82.java) |
 | 100 | Same Tree | [传送门](./Java/100.java) |
 | 202 | Happy Number | [传送门](./Java/202.java) |
 | 205 | Isomorphic Strings | [传送门](./Java/205.java) |
@@ -58,7 +60,12 @@
 | 242 | Valid Anagram | [传送门](./Java/242.java) |
 | 303 | Range Sum Query - Immutable | [传送门](./Java/303.java) |
 | 326 | Power of Three | [传送门](./Java/326.java) |
+| 338 | Counting Bits | [传送门](./Java/338.java) |
 | 342 | Power of Four | [传送门](./Java/342.java) |
+| 345 | Reverse Vowels of a String | [传送门](./Java/345.java) |
+| 347 | Top K Frequent Elements | [传送门](./Java/347.java) |
+| 349 | Intersection of Two Arrays | [传送门](./Java/349.java) |
+| 383 | Ransom Note | [传送门](./Java/383.java) |
 
 `JavaScript` :
 
@@ -93,6 +100,7 @@
 | 160 | Intersection of Two Linker Lists | [传送门](./JavaScript/160.js) |
 | 171 | Excel Sheet Column Number | [传送门](./JavaScript/171.js) |
 | 191 | Number of 1 Bits | [传送门](./JavaScript/191.js) |
+| 338 | Counting Bits | [传送门](./JavaScript/338.js) |
 | 412 | Fizz Buzz | [传送门](./JavaScript/412.js) |
 | 496 | Next Greater Element I | [传送门](./JavaScript/496.js) |
 | 500 | Keyboard Row | [传送门](./JavaScript/500.js) |
