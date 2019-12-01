@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 144 |
+| AC 的题目总数 | 149 |
 
 `C++` :
 
@@ -48,16 +48,21 @@
 | 7 | Reverse Integer | [传送门](./Java/7.java) |
 | 8 | String to Integer | [传送门](./Java/8.java) |
 | 9 | Palindrome Number | [传送门](./Java/9.java) |
+| 10 | Regular Expression Matching | [传送门](./Java/10.java) |
 | 14 | Longest Common Prefix | [传送门](./Java/14.java) |
 | 21 | Merge Two Sorted Lists | [传送门](./Java/21.java) |
 | 36 | Valid Sudoku | [传送门](./Java/36.java) |
 | 71 | Simplify Path | [传送门](./Java/71.java) |
 | 82 | Remove Duplicates from Sorted List II | [传送门](./Java/82.java) |
 | 100 | Same Tree | [传送门](./Java/100.java) |
+| 199 | Binary Tree Right Side View | [传送门](./Java/199.java) |
 | 202 | Happy Number | [传送门](./Java/202.java) |
 | 205 | Isomorphic Strings | [传送门](./Java/205.java) |
+| 225 | Implement Stack using Queues | [传送门](./Java/225.java) |
+| 226 | Invert Binary Tree | [传送门](./Java/226.java) |
 | 234 | Palindrome Linked List | [传送门](./Java/234.java) |
 | 242 | Valid Anagram | [传送门](./Java/242.java) |
+| 299 | Bulls and Cows | [传送门](./Java/299.java) |
 | 303 | Range Sum Query - Immutable | [传送门](./Java/303.java) |
 | 326 | Power of Three | [传送门](./Java/326.java) |
 | 338 | Counting Bits | [传送门](./Java/338.java) |
