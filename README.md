@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 150 |
+| AC 的题目总数 | 153 |
 
 `C++` :
 
@@ -51,7 +51,10 @@
 | 10 | Regular Expression Matching | [传送门](./Java/10.java) |
 | 14 | Longest Common Prefix | [传送门](./Java/14.java) |
 | 15 | 3Sum | [传送门](./Java/15.java) |
+| 18 | 4Sum | [传送门](./Java/18.java) |
 | 21 | Merge Two Sorted Lists | [传送门](./Java/21.java) |
+| 24 | Swap Nodes in Pairs | [传送门](./Java/24.java) |
+| 25 | Reverse Nodes in k-Group | [传送门](./Java/25.java) |
 | 36 | Valid Sudoku | [传送门](./Java/36.java) |
 | 71 | Simplify Path | [传送门](./Java/71.java) |
 | 82 | Remove Duplicates from Sorted List II | [传送门](./Java/82.java) |
