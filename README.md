@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 154 |
+| AC 的题目总数 | 168 |
 
 `C++` :
 
@@ -57,9 +57,16 @@
 | 25 | Reverse Nodes in k-Group | [传送门](./Java/25.java) |
 | 36 | Valid Sudoku | [传送门](./Java/36.java) |
 | 40 | Combination Sum II | [传送门](./Java/40.java) |
+| 49 | Group Anagrams | [传送门](./Java/49.java) |
 | 71 | Simplify Path | [传送门](./Java/71.java) |
 | 82 | Remove Duplicates from Sorted List II | [传送门](./Java/82.java) |
 | 100 | Same Tree | [传送门](./Java/100.java) |
+| 103 | Binary Tree Zigzag Level Order Traversal | [传送门](./Java/103.java) |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | [传送门](./Java/105.java) |
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | [传送门](./Java/106.java) |
+| 108 | Convert Sorted Array to Binary Search Tree | [传送门](./Java/108.java) |
+| 165 | Compare Version Numbers | [传送门](./Java/165.java) |
+| 173 | Binary Search Tree Iterator | [传送门](./Java/173.java) |
 | 199 | Binary Tree Right Side View | [传送门](./Java/199.java) |
 | 202 | Happy Number | [传送门](./Java/202.java) |
 | 205 | Isomorphic Strings | [传送门](./Java/205.java) |
@@ -75,7 +82,14 @@
 | 345 | Reverse Vowels of a String | [传送门](./Java/345.java) |
 | 347 | Top K Frequent Elements | [传送门](./Java/347.java) |
 | 349 | Intersection of Two Arrays | [传送门](./Java/349.java) |
+| 350 | Intersection of Two Arrays II | [传送门](./Java/350.java) |
+| 376 | Number Complement | [传送门](./Java/376.java) |
 | 383 | Ransom Note | [传送门](./Java/383.java) |
+| 429 | N-ary Tree Level Order Traversal | [传送门](./Java/429.java) |
+| 482 | License Key Formatting | [传送门](./Java/482.java) |
+| 485 | Max Consecutive Ones | [传送门](./Java/485.java) |
+| 495 | Teemo Attacking | [传送门](./Java/495.java) |
+| 509 | Fibonacci Number | [传送门](./Java/509.java) |
 
 `JavaScript` :
 
