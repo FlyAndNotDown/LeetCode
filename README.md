@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 168 |
+| AC 的题目总数 | 183 |
 
 `C++` :
 
@@ -89,7 +89,21 @@
 | 482 | License Key Formatting | [传送门](./Java/482.java) |
 | 485 | Max Consecutive Ones | [传送门](./Java/485.java) |
 | 495 | Teemo Attacking | [传送门](./Java/495.java) |
+| 504 | Base 7 | [传送门](./Java/504.java) |
+| 506 | Relative Ranks | [传送门](./Java/506.java) |
+| 507 | Perfect Number | [传送门](./Java/507.java) |
+| 508 | Most Frequent Subtree Sum | [传送门](./Java/508.java) |
 | 509 | Fibonacci Number | [传送门](./Java/509.java) |
+| 513 | Find Bottom Left Tree Value | [传送门](./Java/513.java) |
+| 515 | Find Largest Value in Each Tree Row | [传送门](./Java/515.java) |
+| 520 | Detect Capital | [传送门](./Java/520.java) |
+| 537 | Complex Number Multiplication | [传送门](./Java/537.java) |
+| 539 | Minimum Time Difference | [传送门](./Java/539.java) |
+| 540 | Single Element in a Sorted Array | [传送门](./Java/540.java) |
+| 551 | Student Attendance Record I | [传送门](./Java/551.java) |
+| 556 | Reshape the Matrix | [传送门](./Java/556.java) |
+| 559 | Maximum Depth of N-ary Tree | [传送门](./Java/559.java) |
+| 561 | Array Partition I | [传送门](./Java/561.java) |
 
 `JavaScript` :
 
@@ -128,6 +142,7 @@
 | 412 | Fizz Buzz | [传送门](./JavaScript/412.js) |
 | 496 | Next Greater Element I | [传送门](./JavaScript/496.js) |
 | 500 | Keyboard Row | [传送门](./JavaScript/500.js) |
+| 535 | Encode and Decode TinyURL | [传送门](./JavaScript/535.js) |
 | 867 | Transpose Matrix | [传送门](./JavaScript/867.js) |
 | 868 | Binary Gap | [传送门](./JavaScript/868.js) |
 | 961 | N-Repeated Element in Size 2N Array | [传送门](./JavaScript/961.js) |
