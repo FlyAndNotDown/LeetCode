@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 183 |
+| AC 的题目总数 | 185 |
 
 `C++` :
 
@@ -104,6 +104,8 @@
 | 556 | Reshape the Matrix | [传送门](./Java/556.java) |
 | 559 | Maximum Depth of N-ary Tree | [传送门](./Java/559.java) |
 | 561 | Array Partition I | [传送门](./Java/561.java) |
+| 589 | N-ary Tree Preorder Traversal | [传送门](./Java/589.java) |
+| 590 | N-ary Tree Postorder Traversal | [传送门](./Java/590.java) |
 
 `JavaScript` :
 
