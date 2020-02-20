@@ -4,7 +4,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 185 |
+| AC 的题目总数 | 186 |
 
 `C++` :
 
@@ -65,6 +65,7 @@
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | [传送门](./Java/105.java) |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | [传送门](./Java/106.java) |
 | 108 | Convert Sorted Array to Binary Search Tree | [传送门](./Java/108.java) |
+| 110 | Balanced Binary Tree | [传送门](./Java/110.java) |
 | 165 | Compare Version Numbers | [传送门](./Java/165.java) |
 | 173 | Binary Search Tree Iterator | [传送门](./Java/173.java) |
 | 199 | Binary Tree Right Side View | [传送门](./Java/199.java) |
