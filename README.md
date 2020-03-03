@@ -1,10 +1,12 @@
 # 🍨 LeetCode
 `Kindem` 的个人 `LeetCode` 题解仓库，欢迎交流学习。
 
+下面的目录中 `$number` 题号代表经典 `LeetCode` 题目，`$number-$number` 题号表示 `LeetCode` 面试题。
+
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 187 |
+| AC 的题目总数 | 194 |
 
 `C++` :
 
@@ -39,6 +41,12 @@
 
 | 编号 | 题目名 | 操作 |
 | - | - | - |
+| 1.1 | Is Unique LCCI | [传送门](./Java/1.1.java) |
+| 1.2 | Check Permutation LCCI | [传送门](./Java/1.2.java) |
+| 1.3 | String to URL LCCI | [传送门](./Java/1.3.java) |
+| 1.4 | Palindrome Permutation LCCI | [传送门](./Java/1.4.java) |
+| 1.5 | One Away LCCI | [传送门](./Java/1.5.java) |
+| 1.6 | Compress String LCCI | [传送门](./Java/1.6.java) |
 | 1 | Two Sum | [传送门](./Java/1.java) |
 | 2 | Add Two Numbers | [传送门](./Java/2.java) |
 | 3 | Longest Substring without Repeating Characters | [传送门](./Java/3.java) |
@@ -72,6 +80,7 @@
 | 199 | Binary Tree Right Side View | [传送门](./Java/199.java) |
 | 202 | Happy Number | [传送门](./Java/202.java) |
 | 205 | Isomorphic Strings | [传送门](./Java/205.java) |
+| 206 | Reverse Linked List | [传送门](./Java/206.java) |
 | 225 | Implement Stack using Queues | [传送门](./Java/225.java) |
 | 226 | Invert Binary Tree | [传送门](./Java/226.java) |
 | 234 | Palindrome Linked List | [传送门](./Java/234.java) |
