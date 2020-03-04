@@ -6,7 +6,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 194 |
+| AC 的题目总数 | 197 |
 
 `C++` :
 
@@ -63,7 +63,9 @@
 | 21 | Merge Two Sorted Lists | [传送门](./Java/21.java) |
 | 24 | Swap Nodes in Pairs | [传送门](./Java/24.java) |
 | 25 | Reverse Nodes in k-Group | [传送门](./Java/25.java) |
+| 34 | Find First and Last Position of Element in Sorted Array | [传送门](./Java/34.java) |
 | 36 | Valid Sudoku | [传送门](./Java/36.java) |
+| 37 | Sudoku Solver | [传送门](./Java/37.java) |
 | 40 | Combination Sum II | [传送门](./Java/40.java) |
 | 49 | Group Anagrams | [传送门](./Java/49.java) |
 | 71 | Simplify Path | [传送门](./Java/71.java) |
@@ -117,6 +119,7 @@
 | 561 | Array Partition I | [传送门](./Java/561.java) |
 | 589 | N-ary Tree Preorder Traversal | [传送门](./Java/589.java) |
 | 590 | N-ary Tree Postorder Traversal | [传送门](./Java/590.java) |
+| 994 | Rotting Oranges | [传送门](./Java/994.java) |
 
 `JavaScript` :
 
