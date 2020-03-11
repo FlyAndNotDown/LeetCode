@@ -6,7 +6,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 199 |
+| AC 的题目总数 | 208 |
 
 `C++` :
 
@@ -56,6 +56,7 @@
 | 7 | Reverse Integer | [传送门](./Java/7.java) |
 | 8 | String to Integer | [传送门](./Java/8.java) |
 | 9 | Palindrome Number | [传送门](./Java/9.java) |
+| 10.1 | Sorted Merge LCCI | [传送门](./Java/10.1.java) |
 | 10 | Regular Expression Matching | [传送门](./Java/10.java) |
 | 14 | Longest Common Prefix | [传送门](./Java/14.java) |
 | 15 | 3Sum | [传送门](./Java/15.java) |
@@ -69,7 +70,10 @@
 | 37 | Sudoku Solver | [传送门](./Java/37.java) |
 | 40 | Combination Sum II | [传送门](./Java/40.java) |
 | 49 | Group Anagrams | [传送门](./Java/49.java) |
+| 51 | N-Queens | [传送门](./Java/51.java) |
+| 52 | N-Queens II | [传送门](./Java/52.java) |
 | 71 | Simplify Path | [传送门](./Java/71.java) |
+| 77 | Combinations | [传送门](./Java/77.java) |
 | 82 | Remove Duplicates from Sorted List II | [传送门](./Java/82.java) |
 | 100 | Same Tree | [传送门](./Java/100.java) |
 | 103 | Binary Tree Zigzag Level Order Traversal | [传送门](./Java/103.java) |
@@ -78,6 +82,7 @@
 | 108 | Convert Sorted Array to Binary Search Tree | [传送门](./Java/108.java) |
 | 110 | Balanced Binary Tree | [传送门](./Java/110.java) |
 | 119 | Pascal's Triangle II | [传送门](./Java/119.java) |
+| 121 | Best Time to Buy and Sell Stock | [传送门](./Java/121.java) |
 | 165 | Compare Version Numbers | [传送门](./Java/165.java) |
 | 173 | Binary Search Tree Iterator | [传送门](./Java/173.java) |
 | 199 | Binary Tree Right Side View | [传送门](./Java/199.java) |
@@ -90,6 +95,7 @@
 | 242 | Valid Anagram | [传送门](./Java/242.java) |
 | 299 | Bulls and Cows | [传送门](./Java/299.java) |
 | 303 | Range Sum Query - Immutable | [传送门](./Java/303.java) |
+| 322 | Coin Change | [传送门](./Java/322.java) |
 | 326 | Power of Three | [传送门](./Java/326.java) |
 | 338 | Counting Bits | [传送门](./Java/338.java) |
 | 342 | Power of Four | [传送门](./Java/342.java) |
@@ -114,13 +120,16 @@
 | 537 | Complex Number Multiplication | [传送门](./Java/537.java) |
 | 539 | Minimum Time Difference | [传送门](./Java/539.java) |
 | 540 | Single Element in a Sorted Array | [传送门](./Java/540.java) |
+| 543 | Diameter of Binary Tree | [传送门](./Java/543.java) |
 | 551 | Student Attendance Record I | [传送门](./Java/551.java) |
 | 556 | Reshape the Matrix | [传送门](./Java/556.java) |
 | 559 | Maximum Depth of N-ary Tree | [传送门](./Java/559.java) |
 | 561 | Array Partition I | [传送门](./Java/561.java) |
 | 589 | N-ary Tree Preorder Traversal | [传送门](./Java/589.java) |
 | 590 | N-ary Tree Postorder Traversal | [传送门](./Java/590.java) |
+| 820 | Short Encoding of Words | [传送门](./Java/820.java) |
 | 994 | Rotting Oranges | [传送门](./Java/994.java) |
+| 1013 | Partition Array Into Three Parts With Equal Sum | [传送门](./Java/1013.java) |
 | 1103 | Distribute Candies to People | [传送门](./Java/1103.java) |
 
 `JavaScript` :
