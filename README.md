@@ -6,7 +6,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 208 |
+| AC 的题目总数 | 219 |
 
 `C++` :
 
@@ -65,6 +65,7 @@
 | 24 | Swap Nodes in Pairs | [传送门](./Java/24.java) |
 | 25 | Reverse Nodes in k-Group | [传送门](./Java/25.java) |
 | 29 | Divide Two Integers | [传送门](./Java/29.java) |
+| 31 | Next Permutation | [传送门](./Java/31.java) |
 | 34 | Find First and Last Position of Element in Sorted Array | [传送门](./Java/34.java) |
 | 36 | Valid Sudoku | [传送门](./Java/36.java) |
 | 37 | Sudoku Solver | [传送门](./Java/37.java) |
@@ -72,6 +73,7 @@
 | 49 | Group Anagrams | [传送门](./Java/49.java) |
 | 51 | N-Queens | [传送门](./Java/51.java) |
 | 52 | N-Queens II | [传送门](./Java/52.java) |
+| 70 | Climbing Stairs | [传送门](./Java/70.java) |
 | 71 | Simplify Path | [传送门](./Java/71.java) |
 | 77 | Combinations | [传送门](./Java/77.java) |
 | 82 | Remove Duplicates from Sorted List II | [传送门](./Java/82.java) |
@@ -84,6 +86,7 @@
 | 119 | Pascal's Triangle II | [传送门](./Java/119.java) |
 | 121 | Best Time to Buy and Sell Stock | [传送门](./Java/121.java) |
 | 165 | Compare Version Numbers | [传送门](./Java/165.java) |
+| 169 | Majority Element | [传送门](./Java/169.java) |
 | 173 | Binary Search Tree Iterator | [传送门](./Java/173.java) |
 | 199 | Binary Tree Right Side View | [传送门](./Java/199.java) |
 | 202 | Happy Number | [传送门](./Java/202.java) |
@@ -94,6 +97,7 @@
 | 234 | Palindrome Linked List | [传送门](./Java/234.java) |
 | 242 | Valid Anagram | [传送门](./Java/242.java) |
 | 299 | Bulls and Cows | [传送门](./Java/299.java) |
+| 300 | Longest Increasing Subsequence | [传送门](./Java/300.java) |
 | 303 | Range Sum Query - Immutable | [传送门](./Java/303.java) |
 | 322 | Coin Change | [传送门](./Java/322.java) |
 | 326 | Power of Three | [传送门](./Java/326.java) |
@@ -121,16 +125,23 @@
 | 539 | Minimum Time Difference | [传送门](./Java/539.java) |
 | 540 | Single Element in a Sorted Array | [传送门](./Java/540.java) |
 | 543 | Diameter of Binary Tree | [传送门](./Java/543.java) |
+| 547 | Friend Circles | [传送门](./Java/547.java) |
 | 551 | Student Attendance Record I | [传送门](./Java/551.java) |
 | 556 | Reshape the Matrix | [传送门](./Java/556.java) |
 | 559 | Maximum Depth of N-ary Tree | [传送门](./Java/559.java) |
 | 561 | Array Partition I | [传送门](./Java/561.java) |
 | 589 | N-ary Tree Preorder Traversal | [传送门](./Java/589.java) |
 | 590 | N-ary Tree Postorder Traversal | [传送门](./Java/590.java) |
+| 638 | Shopping Offers | [传送门](./Java/638.java) |
+| 697 | Degree of an Array | [传送门](./Java/697.java) |
 | 820 | Short Encoding of Words | [传送门](./Java/820.java) |
 | 994 | Rotting Oranges | [传送门](./Java/994.java) |
 | 1013 | Partition Array Into Three Parts With Equal Sum | [传送门](./Java/1013.java) |
+| 1071 | Greatest Common Divisor of Strings | [传送门](./Java/1071.java) |
 | 1103 | Distribute Candies to People | [传送门](./Java/1103.java) |
+| 1114 | Print in Order | [传送门](./Java/1114.java) |
+| 1115 | Print FooBar Alternately | [传送门](./Java/1115.java) |
+| 1239 | Maximum Length of a Concatenated String with Unique Characters | [传送门](./Java/1239.java) |
 
 `JavaScript` :
 
