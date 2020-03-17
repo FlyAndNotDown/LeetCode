@@ -6,7 +6,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 219 |
+| AC 的题目总数 | 225 |
 
 `C++` :
 
@@ -133,15 +133,21 @@
 | 589 | N-ary Tree Preorder Traversal | [传送门](./Java/589.java) |
 | 590 | N-ary Tree Postorder Traversal | [传送门](./Java/590.java) |
 | 638 | Shopping Offers | [传送门](./Java/638.java) |
+| 695 | Max Area of Island | [传送门](./Java/695.java) |
 | 697 | Degree of an Array | [传送门](./Java/697.java) |
 | 820 | Short Encoding of Words | [传送门](./Java/820.java) |
 | 994 | Rotting Oranges | [传送门](./Java/994.java) |
 | 1013 | Partition Array Into Three Parts With Equal Sum | [传送门](./Java/1013.java) |
+| 1035 | Uncrossed Lines | [传送门](./Java/1035.java) |
 | 1071 | Greatest Common Divisor of Strings | [传送门](./Java/1071.java) |
+| 1078 | Occurrences After Bigram | [传送门](./Java/1078.java) |
 | 1103 | Distribute Candies to People | [传送门](./Java/1103.java) |
 | 1114 | Print in Order | [传送门](./Java/1114.java) |
 | 1115 | Print FooBar Alternately | [传送门](./Java/1115.java) |
+| 1122 | Relative Sort Array | [传送门](./Java/1122.java) |
+| 1160 | Find Words That Can Be Formed by Characters | [传送门](./Java/1160.java) |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | [传送门](./Java/1239.java) |
+| 1311 | Get Watched Videos by Your Friends | [传送门](./Java/1311.java) |
 
 `JavaScript` :
 
