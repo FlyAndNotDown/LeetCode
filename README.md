@@ -6,7 +6,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 225 |
+| AC 的题目总数 | 261 |
 
 `C++` :
 
@@ -50,6 +50,7 @@
 | 1 | Two Sum | [传送门](./Java/1.java) |
 | 2 | Add Two Numbers | [传送门](./Java/2.java) |
 | 3 | Longest Substring without Repeating Characters | [传送门](./Java/3.java) |
+| 4.3 | List of Depth LCCI | [传送门](./Java/4.3.java) |
 | 4 | Median of Two Sorted Arrays | [传送门](./Java/4.java) |
 | 5 | Longest Palindromic Substring | [传送门](./Java/5.java) |
 | 6 | Zigzag Conversion | [传送门](./Java/6.java) |
@@ -73,29 +74,50 @@
 | 49 | Group Anagrams | [传送门](./Java/49.java) |
 | 51 | N-Queens | [传送门](./Java/51.java) |
 | 52 | N-Queens II | [传送门](./Java/52.java) |
+| 63 | Unique Paths II | [传送门](./Java/63.java) |
 | 70 | Climbing Stairs | [传送门](./Java/70.java) |
 | 71 | Simplify Path | [传送门](./Java/71.java) |
+| 74 | Search a 2D Matrix | [传送门](./Java/74.java) |
+| 76 | Minimum Window Substring | [传送门](./Java/76.java) |
 | 77 | Combinations | [传送门](./Java/77.java) |
+| 79 | Word Search | [传送门](./Java/79.java) |
 | 82 | Remove Duplicates from Sorted List II | [传送门](./Java/82.java) |
+| 86 | Partition List | [传送门](./Java/86.java) |
+| 90 | Subsets II | [传送门](./Java/90.java) |
+| 92 | Reverse Linked List II | [传送门](./Java/92.java) |
+| 98 | Validate Binary Search Tree | [传送门](./Java/98.java) |
 | 100 | Same Tree | [传送门](./Java/100.java) |
 | 103 | Binary Tree Zigzag Level Order Traversal | [传送门](./Java/103.java) |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | [传送门](./Java/105.java) |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | [传送门](./Java/106.java) |
 | 108 | Convert Sorted Array to Binary Search Tree | [传送门](./Java/108.java) |
 | 110 | Balanced Binary Tree | [传送门](./Java/110.java) |
+| 112 | Path Sum | [传送门](./Java/112.java) |
 | 119 | Pascal's Triangle II | [传送门](./Java/119.java) |
+| 120 | Triangle | [传送门](./Java/120.java) |
 | 121 | Best Time to Buy and Sell Stock | [传送门](./Java/121.java) |
+| 144 | Binary Tree Preorder Traversal | [传送门](./Java/144.java) |
+| 145 | Binary Tree Postorder Traversal | [传送门](./Java/145.java) |
+| 146 | LRU Cache | [传送门](./Java/146.java) |
+| 147 | Insertion Sort List | [传送门](./Java/147.java) |
 | 165 | Compare Version Numbers | [传送门](./Java/165.java) |
+| 167 | Two Sum II - Input array is sorted | [传送门](./Java/167.java) |
 | 169 | Majority Element | [传送门](./Java/169.java) |
 | 173 | Binary Search Tree Iterator | [传送门](./Java/173.java) |
+| 189 | Rotate Array | [传送门](./Java/189.java) |
+| 198 | House Robber | [传送门](./Java/198.java) |
 | 199 | Binary Tree Right Side View | [传送门](./Java/199.java) |
+| 200 | Number of Islands | [传送门](./Java/200.java) |
 | 202 | Happy Number | [传送门](./Java/202.java) |
+| 203 | Remove Linked List Elements | [传送门](./Java/203.java) |
 | 205 | Isomorphic Strings | [传送门](./Java/205.java) |
 | 206 | Reverse Linked List | [传送门](./Java/206.java) |
 | 225 | Implement Stack using Queues | [传送门](./Java/225.java) |
 | 226 | Invert Binary Tree | [传送门](./Java/226.java) |
 | 234 | Palindrome Linked List | [传送门](./Java/234.java) |
 | 242 | Valid Anagram | [传送门](./Java/242.java) |
+| 283 | Move Zeroes | [传送门](./Java/283.java) |
+| 287 | Find the Duplicate Number | [传送门](./Java/287.java) |
 | 299 | Bulls and Cows | [传送门](./Java/299.java) |
 | 300 | Longest Increasing Subsequence | [传送门](./Java/300.java) |
 | 303 | Range Sum Query - Immutable | [传送门](./Java/303.java) |
@@ -109,7 +131,15 @@
 | 350 | Intersection of Two Arrays II | [传送门](./Java/350.java) |
 | 376 | Number Complement | [传送门](./Java/376.java) |
 | 383 | Ransom Note | [传送门](./Java/383.java) |
+| 392 | Is Subsequence | [传送门](./Java/392.java) |
+| 406 | Queue Reconstruction by Height | [传送门](./Java/406.java) |
+| 409 | Longest Palindrome | [传送门](./Java/409.java) |
 | 429 | N-ary Tree Level Order Traversal | [传送门](./Java/429.java) |
+| 438 | Find All Anagrams in a String | [传送门](./Java/438.java) |
+| 450 | Delete Node in a BST | [传送门](./Java/450.java) |
+| 461 | Hamming Distance | [传送门](./Java/461.java) |
+| 468 | Validate IP Address | [传送门](./Java/468.java) |
+| 477 | Total Hamming Distance | [传送门](./Java/477.java) |
 | 482 | License Key Formatting | [传送门](./Java/482.java) |
 | 485 | Max Consecutive Ones | [传送门](./Java/485.java) |
 | 495 | Teemo Attacking | [传送门](./Java/495.java) |
@@ -135,18 +165,24 @@
 | 638 | Shopping Offers | [传送门](./Java/638.java) |
 | 695 | Max Area of Island | [传送门](./Java/695.java) |
 | 697 | Degree of an Array | [传送门](./Java/697.java) |
+| 701 | Insert into a Binary Search Tree | [传送门](./Java/701.java) |
+| 771 | Jewels and Stones | [传送门](./Java/771.java) |
+| 791 | Custom Sort String | [传送门](./Java/791.java) |
 | 820 | Short Encoding of Words | [传送门](./Java/820.java) |
+| 836 | Rectangle Overlap | [传送门](./Java/836.java) |
 | 994 | Rotting Oranges | [传送门](./Java/994.java) |
 | 1013 | Partition Array Into Three Parts With Equal Sum | [传送门](./Java/1013.java) |
 | 1035 | Uncrossed Lines | [传送门](./Java/1035.java) |
 | 1071 | Greatest Common Divisor of Strings | [传送门](./Java/1071.java) |
 | 1078 | Occurrences After Bigram | [传送门](./Java/1078.java) |
 | 1103 | Distribute Candies to People | [传送门](./Java/1103.java) |
+| 1108 | Defanging an IP Address | [传送门](./Java/1108.java) |
 | 1114 | Print in Order | [传送门](./Java/1114.java) |
 | 1115 | Print FooBar Alternately | [传送门](./Java/1115.java) |
 | 1122 | Relative Sort Array | [传送门](./Java/1122.java) |
 | 1160 | Find Words That Can Be Formed by Characters | [传送门](./Java/1160.java) |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | [传送门](./Java/1239.java) |
+| 1290 | Convert Binary Number in a Linked List to Integer | [传送门](./Java/1290.java) |
 | 1311 | Get Watched Videos by Your Friends | [传送门](./Java/1311.java) |
 
 `JavaScript` :
