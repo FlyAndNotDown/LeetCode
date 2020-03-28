@@ -6,7 +6,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 261 |
+| AC 的题目总数 | 274 |
 
 `C++` :
 
@@ -61,20 +61,29 @@
 | 10 | Regular Expression Matching | [传送门](./Java/10.java) |
 | 14 | Longest Common Prefix | [传送门](./Java/14.java) |
 | 15 | 3Sum | [传送门](./Java/15.java) |
+| 17.16 | The Masseuse LCCI | [传送门](./Java/17.16.java) |
 | 18 | 4Sum | [传送门](./Java/18.java) |
 | 21 | Merge Two Sorted Lists | [传送门](./Java/21.java) |
 | 24 | Swap Nodes in Pairs | [传送门](./Java/24.java) |
 | 25 | Reverse Nodes in k-Group | [传送门](./Java/25.java) |
 | 29 | Divide Two Integers | [传送门](./Java/29.java) |
+| 30 | Substring with Concatenation of All Words | [传送门](./Java/30.java) |
 | 31 | Next Permutation | [传送门](./Java/31.java) |
+| 32 | Longest Valid Parentheses | [传送门](./Java/32.java) |
 | 34 | Find First and Last Position of Element in Sorted Array | [传送门](./Java/34.java) |
 | 36 | Valid Sudoku | [传送门](./Java/36.java) |
 | 37 | Sudoku Solver | [传送门](./Java/37.java) |
 | 40 | Combination Sum II | [传送门](./Java/40.java) |
+| 41 | First Missing Positive | [传送门](./Java/41.java) |
+| 42 | Trapping Rain Water | [传送门](./Java/42.java) |
+| 44 | Wildcard Matching | [传送门](./Java/44.java) |
+| 45 | Jump Game II | [传送门](./Java/45.java) |
 | 49 | Group Anagrams | [传送门](./Java/49.java) |
+| 50 | Pow(x, n) | [传送门](./Java/50.java) |
 | 51 | N-Queens | [传送门](./Java/51.java) |
 | 52 | N-Queens II | [传送门](./Java/52.java) |
 | 63 | Unique Paths II | [传送门](./Java/63.java) |
+| 68 | Text Justification | [传送门](./Java/68.java) |
 | 70 | Climbing Stairs | [传送门](./Java/70.java) |
 | 71 | Simplify Path | [传送门](./Java/71.java) |
 | 74 | Search a 2D Matrix | [传送门](./Java/74.java) |
@@ -85,6 +94,7 @@
 | 86 | Partition List | [传送门](./Java/86.java) |
 | 90 | Subsets II | [传送门](./Java/90.java) |
 | 92 | Reverse Linked List II | [传送门](./Java/92.java) |
+| 93 | Restore IP Addresses | [传送门](./Java/93.java) |
 | 98 | Validate Binary Search Tree | [传送门](./Java/98.java) |
 | 100 | Same Tree | [传送门](./Java/100.java) |
 | 103 | Binary Tree Zigzag Level Order Traversal | [传送门](./Java/103.java) |
@@ -170,7 +180,10 @@
 | 791 | Custom Sort String | [传送门](./Java/791.java) |
 | 820 | Short Encoding of Words | [传送门](./Java/820.java) |
 | 836 | Rectangle Overlap | [传送门](./Java/836.java) |
+| 892 | Surface Area of 3D Shapes | [传送门](./Java/892.java) |
+| 914 | X of a Kind in a Deck of Cards | [传送门](./Java/914.java) |
 | 994 | Rotting Oranges | [传送门](./Java/994.java) |
+| 999 | Available Captures for Rook | [传送门](./Java/999.java) |
 | 1013 | Partition Array Into Three Parts With Equal Sum | [传送门](./Java/1013.java) |
 | 1035 | Uncrossed Lines | [传送门](./Java/1035.java) |
 | 1071 | Greatest Common Divisor of Strings | [传送门](./Java/1071.java) |
