@@ -6,7 +6,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 274 |
+| AC 的题目总数 | 286 |
 
 `C++` :
 
@@ -82,14 +82,19 @@
 | 50 | Pow(x, n) | [传送门](./Java/50.java) |
 | 51 | N-Queens | [传送门](./Java/51.java) |
 | 52 | N-Queens II | [传送门](./Java/52.java) |
+| 57 | Insert Interval | [传送门](./Java/57.java) |
 | 63 | Unique Paths II | [传送门](./Java/63.java) |
+| 65 | Valid Number | [传送门](./Java/65.java) |
 | 68 | Text Justification | [传送门](./Java/68.java) |
 | 70 | Climbing Stairs | [传送门](./Java/70.java) |
 | 71 | Simplify Path | [传送门](./Java/71.java) |
+| 72 | Edit Distance | [传送门](./Java/72.java) |
 | 74 | Search a 2D Matrix | [传送门](./Java/74.java) |
 | 76 | Minimum Window Substring | [传送门](./Java/76.java) |
 | 77 | Combinations | [传送门](./Java/77.java) |
 | 79 | Word Search | [传送门](./Java/79.java) |
+| 80 | Remove Duplicates from Sorted Array II | [传送门](./Java/80.java) |
+| 81 | Search in Rotated Sorted Array II | [传送门](./Java/81.java) |
 | 82 | Remove Duplicates from Sorted List II | [传送门](./Java/82.java) |
 | 86 | Partition List | [传送门](./Java/86.java) |
 | 90 | Subsets II | [传送门](./Java/90.java) |
@@ -106,13 +111,19 @@
 | 119 | Pascal's Triangle II | [传送门](./Java/119.java) |
 | 120 | Triangle | [传送门](./Java/120.java) |
 | 121 | Best Time to Buy and Sell Stock | [传送门](./Java/121.java) |
+| 129 | Sum Root to Leaf Numbers | [传送门](./Java/129.java) |
+| 143 | Reorder List | [传送门](./Java/143.java) |
 | 144 | Binary Tree Preorder Traversal | [传送门](./Java/144.java) |
 | 145 | Binary Tree Postorder Traversal | [传送门](./Java/145.java) |
 | 146 | LRU Cache | [传送门](./Java/146.java) |
 | 147 | Insertion Sort List | [传送门](./Java/147.java) |
+| 150 | Evaluate Reverse Polish Notation | [传送门](./Java/150.java) |
+| 151 | Reverse Words in a String | [传送门](./Java/151.java) |
+| 162 | Find Peak Element | [传送门](./Java/162.java) |
 | 165 | Compare Version Numbers | [传送门](./Java/165.java) |
 | 167 | Two Sum II - Input array is sorted | [传送门](./Java/167.java) |
 | 169 | Majority Element | [传送门](./Java/169.java) |
+| 172 | Factorial Trailing Zeroes | [传送门](./Java/172.java) |
 | 173 | Binary Search Tree Iterator | [传送门](./Java/173.java) |
 | 189 | Rotate Array | [传送门](./Java/189.java) |
 | 198 | House Robber | [传送门](./Java/198.java) |
@@ -128,6 +139,7 @@
 | 242 | Valid Anagram | [传送门](./Java/242.java) |
 | 283 | Move Zeroes | [传送门](./Java/283.java) |
 | 287 | Find the Duplicate Number | [传送门](./Java/287.java) |
+| 289 | Game of Life | [传送门](./Java/289.java) |
 | 299 | Bulls and Cows | [传送门](./Java/299.java) |
 | 300 | Longest Increasing Subsequence | [传送门](./Java/300.java) |
 | 303 | Range Sum Query - Immutable | [传送门](./Java/303.java) |
