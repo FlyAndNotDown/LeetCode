@@ -6,7 +6,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 287 |
+| AC 的题目总数 | 288 |
 
 `C++` :
 
@@ -64,6 +64,7 @@
 | 17.16 | The Masseuse LCCI | [传送门](./Java/17.16.java) |
 | 18 | 4Sum | [传送门](./Java/18.java) |
 | 21 | Merge Two Sorted Lists | [传送门](./Java/21.java) |
+| 22 | Generate Parentheses | [传送门](./Java/22.java) |
 | 24 | Swap Nodes in Pairs | [传送门](./Java/24.java) |
 | 25 | Reverse Nodes in k-Group | [传送门](./Java/25.java) |
 | 29 | Divide Two Integers | [传送门](./Java/29.java) |
