@@ -6,7 +6,7 @@
 # 🧾 目录
 | 统计 | 值 |
 | - | - |
-| AC 的题目总数 | 303 |
+| AC 的题目总数 | 311 |
 
 `C++` :
 
@@ -122,7 +122,9 @@
 | 121 | Best Time to Buy and Sell Stock | [传送门](./Java/121.java) |
 | 124 | Binary Tree Maximum Path Sum | [传送门](./Java/124.java) |
 | 129 | Sum Root to Leaf Numbers | [传送门](./Java/129.java) |
+| 131 | Palindrome Partitioning | [传送门](./Java/131.java) |
 | 137 | Single Number II | [传送门](./Java/137.java) |
+| 138 | Copy List with Random Pointer | [传送门](./Java/138.java) |
 | 143 | Reorder List | [传送门](./Java/143.java) |
 | 144 | Binary Tree Preorder Traversal | [传送门](./Java/144.java) |
 | 145 | Binary Tree Postorder Traversal | [传送门](./Java/145.java) |
@@ -136,6 +138,7 @@
 | 169 | Majority Element | [传送门](./Java/169.java) |
 | 172 | Factorial Trailing Zeroes | [传送门](./Java/172.java) |
 | 173 | Binary Search Tree Iterator | [传送门](./Java/173.java) |
+| 187 | Repeated DNA Sequences | [传送门](./Java/187.java) |
 | 189 | Rotate Array | [传送门](./Java/189.java) |
 | 198 | House Robber | [传送门](./Java/198.java) |
 | 199 | Binary Tree Right Side View | [传送门](./Java/199.java) |
@@ -144,8 +147,13 @@
 | 203 | Remove Linked List Elements | [传送门](./Java/203.java) |
 | 205 | Isomorphic Strings | [传送门](./Java/205.java) |
 | 206 | Reverse Linked List | [传送门](./Java/206.java) |
+| 213 | House Robber II | [传送门](./Java/213.java) |
+| 216 | Combination Sum III | [传送门](./Java/216.java) |
+| 219 | Contains Duplicate II | [传送门](./Java/219.java) |
+| 222 | Count Complete Tree Nodes | [传送门](./Java/222.java) |
 | 225 | Implement Stack using Queues | [传送门](./Java/225.java) |
 | 226 | Invert Binary Tree | [传送门](./Java/226.java) |
+| 228 | Summary Ranges | [传送门](./Java/228.java) |
 | 234 | Palindrome Linked List | [传送门](./Java/234.java) |
 | 242 | Valid Anagram | [传送门](./Java/242.java) |
 | 283 | Move Zeroes | [传送门](./Java/283.java) |
